@@ -3,20 +3,14 @@
 ---
 - Padding
   * Left: px, %, rem.
-  ---
   * Right: px, %, rem.
-  ---
   * Top: px, %, rem.
-  ---
   * Bottom: px, %, rem.
 ---
 - Margin
   * Left: px, %, rem.
-  ---
   * Right: px, %, rem.
-  ---
   * Top: px, %, rem.
-  ---
   * Bottom: px, %, rem.
 ---
 - Width: px, %, vw.
