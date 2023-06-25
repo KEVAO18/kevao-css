@@ -1,0 +1,98 @@
+:root {
+    --prim: #007bff;
+    --ligh: #dee2e6;
+    --seco: #45576b;
+    --warn: #F0A500;
+    --dang: #E45826;
+    --succ: #46ad48;
+}
+
+
+/****************************/
+/*       backgrounds        */
+/****************************/
+
+
+.bg-prim {
+    background: var(--prim) !important;
+}
+
+.bg-ligh {
+    background: var(--ligh) !important;
+}
+
+.bg-seco {
+    background: var(--seco) !important;
+}
+
+.bg-warn {
+    background: var(--warn) !important;
+}
+
+.bg-dang {
+    background: var(--dang) !important;
+}
+
+.bg-succ {
+    background: var(--succ) !important;
+}
+
+
+/****************************/
+/*          color           */
+/****************************/
+
+
+.color-prim {
+    color: var(--prim) !important;
+}
+
+.color-ligh {
+    color: var(--ligh) !important;
+}
+
+.color-seco {
+    color: var(--seco) !important;
+}
+
+.color-warn {
+    color: var(--warn) !important;
+}
+
+.color-dang {
+    color: var(--dang) !important;
+}
+
+.color-succ {
+    color: var(--succ) !important;
+}
+
+
+/****************************/
+/*          border          */
+/****************************/
+
+
+.border-prim{
+    border-color: var(--prim);
+}
+
+.border-ligh{
+    border-color: var(--ligh);
+}
+
+.border-seco{
+    border-color: var(--seco);
+}
+
+.border-warn{
+    border-color: var(--warn);
+}
+
+.border-dang{
+    border-color: var(--dang);
+}
+
+.border-succ{
+    border-color: var(--succ);
+}
